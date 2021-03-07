@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/kardusinfo/rc_app/BuildConfig.java
+ com.kardusinfo.rc_app.BuildConfig
